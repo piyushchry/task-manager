@@ -1,7 +1,11 @@
 # Task Management App
 
 
-## All CRUD 
+## All CRUD functions working
+- Create new task
+- Update task
+- Delete task
+- Mark task as complete/incomplete
 
 
 ## Deployment
